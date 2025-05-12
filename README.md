@@ -5,6 +5,5 @@
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning java
 - 📫 How to reach me: +251931073696
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
